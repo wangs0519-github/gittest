@@ -1,2 +1,4 @@
 111
 222
+先删除以防其他的远程链接占用
+git remote rm origin 
